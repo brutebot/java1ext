@@ -27,7 +27,7 @@ public class Employee {
     public static void main(String[] args) {
         Employee emp = new Employee();
         emp.setEmpId(101);
-        emp.setName("Rahul");
+        emp.setName("Vedant");
         emp.display();
     }
 }
