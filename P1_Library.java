@@ -22,7 +22,7 @@ class Book {
 public class Library {
     public static void main(String[] args) {
         Book b1 = new Book();
-        b1.acceptDetails("Java Programming", "James Gosling", 450.50);
+        b1.acceptDetails("Java Programming", "Vedant Kande", 450.50);
         b1.displayDetails();
     }
 }
