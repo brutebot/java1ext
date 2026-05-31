@@ -36,7 +36,7 @@ public class Book {
 
     public static void main(String[] args) {
         Book b1 = new Book();
-        Book b2 = new Book("Java Programming", "James Gosling", 499.99);
+        Book b2 = new Book("Java Programming", "Vedant Kande", 499.99);
         Book b3 = new Book(b2);
 
         System.out.println("Book 1 Details:");
