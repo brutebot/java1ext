@@ -1,4 +1,4 @@
-// Practical 6 - Inheritance and Interface (Smart Vehicle System)
+// Practical 6 - Inheritance and Interface (Smart Vehicle System)...
 interface ElectricVehicle {
     void charge();
 }
