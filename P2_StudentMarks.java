@@ -14,7 +14,7 @@ public class StudentMarks {
             marks[i] = sc.nextInt();
         }
 
-        System.out.println("\nMarks of students:");
+        System.out.println("\nMarks of students....:");
         for (int i = 0; i < 5; i++) {
             System.out.println("Student " + (i + 1) + ": " + marks[i]);
         }
